@@ -7,6 +7,9 @@ Deep Learning with Tensorflow
 2. Most tutorials/blogs/implementations import datasets from APIs like tensorflow/keras etc. We won't, instead we will make our data loader.
 3. We will not use any high level APIs like keras or tf.keras etc. We will stick to basic tensorflow
 
+## Momentum-Stochastic Variance-Adapted Gradient
+https://github.com/lballes/msvag
+
 ## Fashion MNIST Dataset
 
 * Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples.
