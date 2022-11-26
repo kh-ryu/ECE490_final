@@ -5,7 +5,7 @@ Deep Learning with Tensorflow
 
 1. This repo implements each step in building deep learning model from scratch using python & Tensorflow.
 2. Most tutorials/blogs/implementations import datasets from APIs like tensorflow/keras etc. We won't, instead we will make our data loader.
-3. We will not use any high level APIs like keras or tf.keras etc. We will stick to basic tensorflow    
+3. We will not use any high level APIs like keras or tf.keras etc. We will stick to basic tensorflow   
 **4. This code is implemented on tensorflow 1. If you are using Tensorflow 2, you should downgrade it to the version 1.6~1.15**
 
 ## Momentum-Stochastic Variance-Adapted Gradient
